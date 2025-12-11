@@ -16,4 +16,4 @@ The Google Drive folder holding pickled model data is available [here](https://d
 - shap = 0.47.2
 - jupyter
 
-(** see yaml file)  
+(see yml file)  
